@@ -4,3 +4,30 @@
 }
 
 
+.marca-do-carro{
+  color: blue;
+}
+.garagem{
+  color: red;
+}
+.LOGO-LBN{
+  width: 30vh;
+  /* height: 30vh; */
+}
+.Headder{
+  color: rgb(133, 51, 51);
+}
+
+#subaru{
+    width: 50vh;
+}
+
+#cor{
+  font-size: 50px;
+}
+#ano{
+  font-size: 50px;
+}
+#tipoCombst{
+  font-size: 40px;
+}
