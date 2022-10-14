@@ -4,8 +4,9 @@
 }
 
 
-.marca-do-carro{
-  color: blue;
+#marca-do-carro{
+  color: rgb(19, 19, 188);
+  font-size: 4vh;
 }
 .garagem{
   color: red;
@@ -19,15 +20,18 @@
 }
 
 #subaru{
-    width: 50vh;
+    width: 49vh;
 }
 
 #cor{
   font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #ano{
   font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 #tipoCombst{
   font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
